@@ -13,7 +13,7 @@ I'm a Product Manager with **6+ years** building scalable enterprise SaaS platfo
  
 Currently at **Sequoia**, where I own platform capabilities across ATS/HRIS integrations, offer automation, and AI-assisted employee support.
  
-I'm actively learning to build with AI — exploring agents, automation workflows, and personal projects that sit at the intersection of product thinking and hands-on building.
+I'm leveraging AI to learn and understand the world behind the screens, learning to build with AI — exploring agents, automation workflows, and personal projects that sit at the intersection of product thinking and hands-on building.
  
 ---
  
